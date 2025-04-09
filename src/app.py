@@ -1,6 +1,7 @@
 usuarios = []
 
 def soma(a,b):
+    # função para somar
     return a+b
 
 def is_par(a):
